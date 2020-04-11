@@ -1,0 +1,15 @@
+1. Downlaod pyhton = https://www.python.org/ [make sure the path is set]
+2. To check pyhton version = py --version
+3. Download pip = download get-pip.py [https://bootstrap.pypa.io/get-pip.py]
+                                 python get-pip.py
+4. To check pip version = pip --version
+5. Download pycharm = https://www.jetbrains.com/pycharm/  [community version]
+6. Download visual studio code = https://code.visualstudio.com/
+7. Download django = py -m pip install virtualenvwrapper-win [download virtual env]
+                                       mkvirtualenv <envname> [creating a virtual env]
+                                       workon <envname> [to shift to virtual env]
+                                       py -m pip install Django [install command] 
+8. To check django version = django-admin --version
+9. To come out of  virtual env = deactivate 
+10. To create a project = django-admin startproject <projectname>
+11. Setup of a server = python manage.py runserver
