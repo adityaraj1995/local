@@ -13,3 +13,4 @@
 9. To come out of  virtual env = deactivate 
 10. To create a project = django-admin startproject <projectname>
 11. Setup of a server = python manage.py runserver
+12. Start an application = python manange.py startapp <appname>
