@@ -1,5 +1,5 @@
-1. Downlaod pyhton = https://www.python.org/ [make sure the path is set]
-2. To check pyhton version = py --version
+1. Downlaod python = https://www.python.org/ [make sure the path is set]
+2. To check python version = py --version
 3. Download pip = download get-pip.py [https://bootstrap.pypa.io/get-pip.py]
                                  python get-pip.py
 4. To check pip version = pip --version
